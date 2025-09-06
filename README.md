@@ -28,8 +28,8 @@ For full details, circuit diagrams, and usage instructions, please refer to the 
     ```bash
     git clone https://github.com/BasantSaad/Digital-lock-.git
     ```
-2. Open the `.vhd` file in your VHDL editor or simulator.
-3. Follow the instructions in the PDF to simulate and test the digital lock.
+2. Open the `.vhd` file in your VHDL editor or simulator (I used EDA Playground online simulator).
+4. Follow the instructions in the PDF to simulate and test the digital lock.
 
 ## Requirements
 
