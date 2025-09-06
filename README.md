@@ -1,4 +1,4 @@
-# Digital Lock Project
+# Digital Lock Project🔒
 
 This repository contains an implementation of a **Digital Lock** using VHDL.
 
